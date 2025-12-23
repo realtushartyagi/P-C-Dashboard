@@ -4,9 +4,9 @@
 An intelligent, fully-responsive web application that curates and displays personalized content streams including breaking news, entertainment recommendations, and community updates.  Built with modern React patterns and enterprise-grade state management.
 
 ## 🌐 Deployment
-**Production URL**: [Your Vercel URL Here]
+**Production URL**: [https://p-c-dashboard.vercel.app]
 
-**Walkthrough Video**: [Your Video Link Here]
+**Walkthrough Video**: [https://drive.google.com/file/d/12_YukC7BdbTD9P22sv2OgTMwtV_xuJxY/view?usp=drive_link]
 
 ## 🎨 Key Capabilities
 
